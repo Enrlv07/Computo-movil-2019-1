@@ -1,0 +1,2 @@
+En esta carpeta se encuentra el ejercicio que se dejó en clase
+sobre el juego  de piedra, papel o tijera.
